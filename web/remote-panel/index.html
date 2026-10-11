@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aiko Remote Control Panel</title>
+    <style>
+        :root { color-scheme: dark; font: 15px/1.5 system-ui, sans-serif; background: #0d1218; color: #f3f6f8; }
+        * { box-sizing: border-box; }
+        body { margin: 0; background: radial-gradient(circle at top right, #23454e, #0d1218 48%); min-height: 100vh; }
+        main { max-width: 1000px; margin: auto; padding: 32px 18px 64px; }
+        header { border-bottom: 1px solid #2b394a; margin-bottom: 22px; padding-bottom: 16px; }
+        h1, h2 { margin: 0 0 8px; }
+        h1 { font-size: clamp(28px, 6vw, 44px); }
+        h2 { font-size: 18px; }
+        p, .hint { color: #aab7c5; }
+        .panel { background: #17212d; border: 1px solid #2b394a; border-radius: 8px; padding: 18px; margin: 14px 0; }
+        .connect { display: grid; grid-template-columns: 2fr 1fr auto; gap: 10px; align-items: end; }
+        label { display: grid; gap: 6px; color: #aab7c5; margin: 10px 0; }
+        input, textarea { width: 100%; background: #101821; color: #f3f6f8; border: 1px solid #354457; border-radius: 5px; padding: 10px; font: inherit; }
+        input[type="checkbox"] { width: auto; }
+        textarea { min-height: 76px; resize: vertical; font-family: ui-monospace, monospace; }
+        .setting { display: grid; grid-template-columns: minmax(200px, 1fr) minmax(240px, 2fr); gap: 12px; align-items: center; border-top: 1px solid #2b394a; padding: 9px 0; }
+        .setting label { margin: 0; }
+        .check { display: flex; align-items: center; gap: 10px; }
+        button { border: 0; border-radius: 5px; background: #73e0a0; color: #0d1712; cursor: pointer; font-weight: 750; padding: 11px 15px; }
+        button.secondary { background: #354457; color: #f3f6f8; }
+        button:disabled { opacity: .55; cursor: wait; }
+        .actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 12px; }
+        #status { min-height: 24px; overflow-wrap: anywhere; }
+        .success { color: #73e0a0; } .error { color: #ff9898; }
+        details { margin-top: 14px; }
+        #payload { min-height: 100px; }
+        @media (max-width: 680px) { .connect, .setting { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+<main>
+    <header>
+        <h1>Aiko Remote Control Panel</h1>
+        <p>Connect to your running bot, change its settings, and send the encoded settings payload directly to it.</p>
+        <p class="hint">Base64 is an encoding, not encryption. Keep your panel token secret; this page does not store it.</p>
+    </header>
+    <section class="panel">
+        <h2>Connect to bot</h2>
+        <div class="connect">
+            <label>Public bot URL<input id="botUrl" type="url" placeholder="https://your-bot.example.com"></label>
+            <label>Panel token<input id="panelToken" type="password" autocomplete="current-password" placeholder="PANEL_TOKEN"></label>
+            <button id="connectButton" type="button">Connect</button>
+        </div>
+        <p class="hint">The URL must be the public URL of the bot process that runs this project, not the static panel website URL.</p>
+        <p id="status" role="status"></p>
+    </section>
+    <section id="settingsPanel" class="panel" hidden>
+        <h2>Bot settings</h2>
+        <div id="settings"></div>
+        <div class="actions">
+            <button id="sendButton" type="button">Send changes to bot</button>
+            <button id="reloadButton" class="secondary" type="button">Reload from bot</button>
+        </div>
+        <details>
+            <summary>Encoded settings payload</summary>
+            <p class="hint">This long Base64 string is also sent automatically when you click “Send changes to bot”.</p>
+            <textarea id="payload" readonly></textarea>
+            <button id="copyButton" class="secondary" type="button">Copy payload</button>
+        </details>
+    </section>
+</main>
+<script src="./remote-panel.js"></script>
+</body>
+</html>

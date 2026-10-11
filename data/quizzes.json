@@ -1,0 +1,22 @@
+{
+    "9b4d40f6-cb36-4c73-b69e-f19c29dd1b77": {
+        "question": "What classic Nintendo game features an Italian plumber named Mario who must rescue Princess Peach from the villain Bowser?",
+        "options": [
+            "The Legend of Zelda",
+            "Super Mario Bros.",
+            "Donkey Kong",
+            "Metroid"
+        ],
+        "correct": 1,
+        "explanation": "'Super Mario Bros.' is the iconic game starring Mario and Luigi, known for its side-scrolling platforming action and the mission to save Princess Peach from Bowser.",
+        "topic": "gaming",
+        "participants": 4,
+        "ended": false,
+        "createdAt": 1791693201681,
+        "expiresAt": 1791779601681,
+        "winnerCoins": 25,
+        "participantCoins": 3,
+        "channelId": "1534505130630844496",
+        "messageId": "1558699643100209233"
+    }
+}

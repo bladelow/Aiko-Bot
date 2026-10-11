@@ -1,0 +1,197 @@
+{
+    "1475546262660190400": {
+        "coins": 121,
+        "xp": 98,
+        "level": 1,
+        "answers": {
+            "9b4d40f6-cb36-4c73-b69e-f19c29dd1b77": 0
+        },
+        "wrong": 0,
+        "correct": 1,
+        "profile": {
+            "name": "𐌀𐌋𐌕",
+            "color": "gold",
+            "font": "default",
+            "roleId": "1551900025527861248"
+        },
+        "inventory": {
+            "colors": [
+                "gold",
+                "blue",
+                "pink",
+                "red"
+            ],
+            "fonts": []
+        },
+        "lastXpAt": 1791697233314
+    },
+    "1351956984597053463": {
+        "coins": 100000000000074,
+        "xp": 155,
+        "level": 2,
+        "answers": {
+            "9b4d40f6-cb36-4c73-b69e-f19c29dd1b77": 1
+        },
+        "wrong": 0,
+        "correct": 2,
+        "profile": {
+            "name": "bladelow",
+            "color": "green",
+            "font": "smallcaps",
+            "roleId": "1551891163202723932"
+        },
+        "inventory": {
+            "colors": [
+                "green"
+            ],
+            "fonts": [
+                "smallcaps"
+            ]
+        },
+        "lastXpAt": 1791697191083
+    },
+    "1421783622829998110": {
+        "coins": 96,
+        "xp": 74,
+        "level": 2,
+        "answers": {
+            "9b4d40f6-cb36-4c73-b69e-f19c29dd1b77": 2
+        },
+        "correct": 2,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 1791696576134
+    },
+    "1477261536476139692": {
+        "coins": 25,
+        "xp": 11,
+        "level": 2,
+        "answers": {},
+        "correct": 0,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 1791697366235
+    },
+    "1488445682221322260": {
+        "coins": 50,
+        "xp": 60,
+        "level": 1,
+        "answers": {},
+        "correct": 2
+    },
+    "1161663702832001084": {
+        "coins": 275,
+        "xp": 268,
+        "level": 6,
+        "answers": {
+            "9b4d40f6-cb36-4c73-b69e-f19c29dd1b77": 1
+        },
+        "correct": 1,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 1791697142499
+    },
+    "1493170722481115136": {
+        "coins": 280,
+        "xp": 0,
+        "level": 1,
+        "answers": {},
+        "correct": 0,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 0
+    },
+    "1465733982938337373": {
+        "coins": 0,
+        "xp": 20,
+        "level": 1,
+        "answers": {},
+        "correct": 0,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 1790090892694
+    },
+    "1240836549763928075": {
+        "coins": 0,
+        "xp": 10,
+        "level": 1,
+        "answers": {},
+        "correct": 0,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 1790081800749
+    },
+    "1484904181260091404": {
+        "coins": 0,
+        "xp": 2,
+        "level": 1,
+        "answers": {},
+        "correct": 0,
+        "wrong": 0,
+        "profile": {
+            "name": "",
+            "color": "",
+            "font": "default",
+            "roleId": ""
+        },
+        "inventory": {
+            "colors": [],
+            "fonts": []
+        },
+        "lastXpAt": 1790182929550
+    }
+}

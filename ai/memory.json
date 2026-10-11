@@ -1,0 +1,266 @@
+{
+    "version": 2,
+    "users": {
+        "1351956984597053463": {
+            "fresh": [
+                {
+                    "role": "user",
+                    "content": "mere paas kitne blade coins hai??",
+                    "createdAt": "2026-10-10T18:45:17.329Z",
+                    "messageId": "1558551607850041387"
+                },
+                {
+                    "role": "assistant",
+                    "content": "bro main koi bank thodi na hu jo tere blade coins ginungi 😭",
+                    "createdAt": "2026-10-10T18:45:17.329Z"
+                },
+                {
+                    "role": "user",
+                    "content": "mere leaderboard dikha",
+                    "createdAt": "2026-10-10T18:48:54.382Z",
+                    "messageId": "1558552515614736407"
+                },
+                {
+                    "role": "assistant",
+                    "content": "bro 😭 pehle coins gino, ab leaderboard dikhao... tumne mujhe bot samajh rakha hai kya?",
+                    "createdAt": "2026-10-10T18:48:54.382Z"
+                },
+                {
+                    "role": "user",
+                    "content": "ha",
+                    "createdAt": "2026-10-10T18:49:13.063Z",
+                    "messageId": "1558552592324235346"
+                },
+                {
+                    "role": "assistant",
+                    "content": "lol ab bas 'ha'? 😭 mera roast pasand nahi aaya kya?",
+                    "createdAt": "2026-10-10T18:49:13.063Z"
+                },
+                {
+                    "role": "user",
+                    "content": "wsp",
+                    "createdAt": "2026-10-11T04:25:06.139Z",
+                    "messageId": "1558697540109607044"
+                },
+                {
+                    "role": "assistant",
+                    "content": "ayo! not much, just trying to figure out if I should actually do my coding project or just watch anime 😭 you?",
+                    "createdAt": "2026-10-11T04:25:06.139Z"
+                },
+                {
+                    "role": "user",
+                    "content": "mere profile ka states bata ek baar",
+                    "createdAt": "2026-10-11T05:04:49.913Z",
+                    "messageId": "1558707527905181748"
+                },
+                {
+                    "role": "assistant",
+                    "content": "ayoo bladelow 💀 tum bhi na... phir se bot mode on karwa rahe ho mera.\nBlade Coins: 100000000000074\nLevel: 2\nXP: 125\nQuiz correct: 2 (100% accuracy!)\nQuiz incorrect: 0\n\nbas? 😭",
+                    "createdAt": "2026-10-11T05:04:49.913Z"
+                }
+            ],
+            "memories": [
+                {
+                    "id": "97d990e4-cf1b-47df-b0b5-6ee1cceada9f",
+                    "userId": "1351956984597053463",
+                    "content": "User fact: mere paas kitne blade coins hai??",
+                    "createdAt": "2026-10-10T18:45:17.331Z",
+                    "updatedAt": "2026-10-10T18:45:17.331Z",
+                    "lastRelevantAt": "2026-10-10T18:45:17.331Z",
+                    "lastAccessedAt": "2026-10-11T05:04:42.538Z",
+                    "importance": 0.45,
+                    "relevance": 0.7,
+                    "confidence": 0.45,
+                    "accessCount": 4,
+                    "supportCount": 1,
+                    "memoryType": "fact",
+                    "compressionLevel": 0,
+                    "expiresAt": null,
+                    "sourceMessageIds": [
+                        "1558551607850041387"
+                    ],
+                    "status": "active"
+                }
+            ]
+        },
+        "1475546262660190400": {
+            "fresh": [
+                {
+                    "role": "user",
+                    "content": "teri memory leni hai",
+                    "createdAt": "2026-10-11T05:03:47.943Z",
+                    "messageId": "1558707281393221743"
+                },
+                {
+                    "role": "assistant",
+                    "content": "my memory?? 💀 what do you even mean by that 😭",
+                    "createdAt": "2026-10-11T05:03:47.943Z"
+                },
+                {
+                    "role": "user",
+                    "content": "chal chor",
+                    "createdAt": "2026-10-11T05:04:07.853Z",
+                    "messageId": "1558707354155876453"
+                },
+                {
+                    "role": "assistant",
+                    "content": "chal chor? NAHHH 💀 ab toh batana padega pakka kuch raaz tha 👀",
+                    "createdAt": "2026-10-11T05:04:07.853Z"
+                },
+                {
+                    "role": "user",
+                    "content": "oh yeah",
+                    "createdAt": "2026-10-11T05:05:16.155Z",
+                    "messageId": "1558707649455857766"
+                },
+                {
+                    "role": "assistant",
+                    "content": "dobara chal chor? 💀 no way, ab toh confirm kuch toh gadbad hai daya 👀",
+                    "createdAt": "2026-10-11T05:05:16.155Z"
+                },
+                {
+                    "role": "user",
+                    "content": "mere profile ke state bata",
+                    "createdAt": "2026-10-11T05:05:58.393Z",
+                    "messageId": "1558707830964486226"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Ooh, your profile stats? 👀 Lemme see...\n\n*   Blade Coins: 121\n*   Level: 1 (baby steps fr 😭)\n*   XP: 56\n*   Quiz correct: 1\n*   Quiz incorrect: 0 (perfect score? nice! 💅)\n*   Quiz accuracy: 100%\n*   Custom profile name: 𐌀𐌋𐌕\n*   Name color: gold\n*   Name font: default\n*   Badges: none\n*   Inventory colors: gold, blue, pink, red\n*   Inventory fonts: none\n\nhehe you're still a noob but like a cute noob 🤪. get grinding! 😤",
+                    "createdAt": "2026-10-11T05:05:58.393Z"
+                },
+                {
+                    "role": "user",
+                    "content": "chal be chutiye",
+                    "createdAt": "2026-10-11T05:06:20.539Z",
+                    "messageId": "1558707933334994945"
+                },
+                {
+                    "role": "assistant",
+                    "content": "😴 Aaj meri AI energy khatam ho gayi.",
+                    "createdAt": "2026-10-11T05:06:20.539Z"
+                },
+                {
+                    "role": "user",
+                    "content": "ise timeout de",
+                    "createdAt": "2026-10-11T05:20:27.815Z",
+                    "messageId": "1558711490419097611"
+                },
+                {
+                    "role": "assistant",
+                    "content": "😴 Aaj meri AI energy khatam ho gayi.",
+                    "createdAt": "2026-10-11T05:20:27.815Z"
+                }
+            ],
+            "memories": []
+        },
+        "1465733982938337373": {
+            "fresh": [],
+            "memories": []
+        },
+        "1421783622829998110": {
+            "fresh": [],
+            "memories": []
+        },
+        "1477261536476139692": {
+            "fresh": [],
+            "memories": [
+                {
+                    "id": "2050d685-da5e-4d92-bcbc-a27673e9d1ed",
+                    "userId": "1477261536476139692",
+                    "content": "User preference: I love u",
+                    "createdAt": "2026-09-24T13:32:18.955Z",
+                    "updatedAt": "2026-10-11T04:24:31.284Z",
+                    "lastRelevantAt": "2026-09-24T13:32:18.955Z",
+                    "lastAccessedAt": "2026-09-24T13:33:21.750Z",
+                    "importance": 0.45,
+                    "relevance": 0.6211350807407406,
+                    "confidence": 0.45,
+                    "accessCount": 2,
+                    "supportCount": 1,
+                    "memoryType": "weekly_summary",
+                    "compressionLevel": 2,
+                    "expiresAt": null,
+                    "sourceMessageIds": [
+                        "1552674428394143826"
+                    ],
+                    "status": "active",
+                    "weekBucket": "2026-09-21"
+                }
+            ]
+        },
+        "1161663702832001084": {
+            "fresh": [
+                {
+                    "role": "user",
+                    "content": "nerk m",
+                    "createdAt": "2026-10-11T04:27:53.620Z",
+                    "messageId": "1558698247097417769"
+                },
+                {
+                    "role": "assistant",
+                    "content": "HELPPP 😭 bro what did you even do to deserve a one-way ticket to hell??? 💀",
+                    "createdAt": "2026-10-11T04:27:53.620Z"
+                },
+                {
+                    "role": "user",
+                    "content": "mne kre kand itne",
+                    "createdAt": "2026-10-11T04:28:43.584Z",
+                    "messageId": "1558698434045804668"
+                },
+                {
+                    "role": "assistant",
+                    "content": "brooo 😭 spill the tea then, what kinda kand we talkin' about here? 👀",
+                    "createdAt": "2026-10-11T04:28:43.584Z"
+                },
+                {
+                    "role": "user",
+                    "content": "meri k bhi bta",
+                    "createdAt": "2026-10-11T05:05:10.820Z",
+                    "messageId": "1558707626349559889"
+                },
+                {
+                    "role": "assistant",
+                    "content": "NAH anurag tumne bhi? 😭 jaldi batao kya scene hai",
+                    "createdAt": "2026-10-11T05:05:10.820Z"
+                },
+                {
+                    "role": "user",
+                    "content": "meri id k stat bta",
+                    "createdAt": "2026-10-11T05:06:00.087Z",
+                    "messageId": "1558707828464812123"
+                },
+                {
+                    "role": "assistant",
+                    "content": "anurag tumhare stats? 👀 hmm... 275 Blade Coins, Level 6, 214 XP hai. aur quiz mein 100% accuracy hai, ek correct... but woh toh bas ek hi attempt tha na? 😭 haha",
+                    "createdAt": "2026-10-11T05:06:00.087Z"
+                },
+                {
+                    "role": "user",
+                    "content": "tune uestion hi ek pucha h",
+                    "createdAt": "2026-10-11T05:08:11.817Z",
+                    "messageId": "1558708403537190963"
+                },
+                {
+                    "role": "assistant",
+                    "content": "😴 Aaj meri AI energy khatam ho gayi.",
+                    "createdAt": "2026-10-11T05:08:11.817Z"
+                },
+                {
+                    "role": "user",
+                    "content": "mere sath wo kregi",
+                    "createdAt": "2026-10-11T05:22:04.132Z",
+                    "messageId": "1558711894024650904"
+                },
+                {
+                    "role": "assistant",
+                    "content": "😴 Aaj meri AI energy khatam ho gayi.",
+                    "createdAt": "2026-10-11T05:22:04.132Z"
+                }
+            ],
+            "memories": []
+        }
+    },
+    "lastMaintenanceAt": "2026-10-11T04:24:31.281Z",
+    "universal": []
+}

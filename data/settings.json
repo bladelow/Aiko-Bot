@@ -1,0 +1,74 @@
+{
+    "xpEnabled": true,
+    "xpPerMessage": 2,
+    "xpCooldownMs": 10000,
+    "levelUpCoins": 25,
+    "spamLimit": 4,
+    "spamWindowMs": 10000,
+    "spamTimeoutMs": 30000,
+    "moderationEnabled": true,
+    "spamEnabled": true,
+    "linkFilterEnabled": true,
+    "allowedLinks": [
+        "https://klipy.com"
+    ],
+    "linkRules": {
+        "1483846251001938071": [
+            "https://www.youtube.com"
+        ],
+        "1460962787332456606": [
+            "https://www.youtube.com"
+        ],
+        "1460962422117503052": [
+            "https://www.youtube.com"
+        ]
+    },
+    "allowServerOwner": true,
+    "allowAdministrators": true,
+    "ignoredLinkRoles": [],
+    "levelUpChannelId": "1534504750052278282",
+    "levelUpMessage": "🎉 {user} reached **Level {level}** and earned **{coins} Blade Coins**!",
+    "aiEnabled": true,
+    "aiPrompt": "",
+    "aiProvider": "auto",
+    "openRouterModel": "inclusionai/ling-3.0-flash-fin:free",
+    "memoryFreshLimit": 12,
+    "memoryFreshHours": 24,
+    "memoryRetrievalLimit": 8,
+    "memoryWeeklyDays": 7,
+    "memoryMonthlyDays": 30,
+    "memoryDeleteThreshold": 0.12,
+    "autoConversationEnabled": true,
+    "autoConversationChannels": [
+        "1534908982253064200"
+    ],
+    "inactiveMinutes": 30,
+    "autoConversationCooldownMinutes": 180,
+    "maxAutoMessagesPerDay": 4,
+    "excludedChannels": [],
+    "quizChannelId": "1534505130630844496",
+    "quizTimezone": "Asia/Kolkata",
+    "quizDurationHours": 24,
+    "quizWinnerCoins": 25,
+    "quizParticipantCoins": 3,
+    "universalMemoryFacts": [],
+    "levelUp": {
+        "enabled": true,
+        "channelId": "1534504750052278282",
+        "mentionUser": true,
+        "message": "🎉 {user} reached **Level {level}** and earned **{coins} Blade Coins**!",
+        "image": {
+            "enabled": true,
+            "width": 1200,
+            "height": 400,
+            "title": "LEVEL-UP!",
+            "accentColor": "#db7c07",
+            "backgroundColor": "#030d01",
+            "showAvatar": true,
+            "showLevelTransition": true
+        }
+    },
+    "allowedDomains": [],
+    "blockedDomains": [],
+    "quizDailyPostedDate": "2026-10-11"
+}
