@@ -1,0 +1,23 @@
+{
+  "name": "Aiko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^2.16.0",
+    "@napi-rs/canvas": "^1.0.9",
+    "axios": "^1.19.0",
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.5.0",
+    "node-cron": "^4.6.0",
+    "openai": "^7.4.0"
+  }
+}
